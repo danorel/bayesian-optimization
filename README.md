@@ -1,6 +1,6 @@
-# foobar
+# bayesian-optimization
 
-foobar is a Python project for dealing with ...
+bayesian-optimization is a Python project for dealing with hyperparameter tuning on ML/AI models
 
 ## Installation & Contributing
 
@@ -9,7 +9,7 @@ Use the [DEVELOPER.md](./DEVELOPER.md) guide to run or contribute to the project
 ## Usage
 
 ```python
-python -m main.py
+python -m main
 ```
 
 ## License
